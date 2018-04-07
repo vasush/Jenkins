@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FB18-BD00
+
+ Directory of C:\Users\Vasu\Desktop\Java Project
+
+07-Apr-18  06:28 PM    <DIR>          .
+07-Apr-18  06:28 PM    <DIR>          ..
+07-Apr-18  06:28 PM                 0 demo.txt
+07-Apr-18  05:45 PM             1,003 levelorder.class
+24-Dec-17  02:24 PM               734 levelorder.java
+               3 File(s)          1,737 bytes
+               2 Dir(s)  52,573,462,528 bytes free
